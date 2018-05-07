@@ -2,7 +2,7 @@
 Book recommendation system using content based as well as collaborative approach on Amazon dataset. 
 # Book Recommendation System
 
-The system is a hybrid approach based book recommendation system. The hybrid approach is a combination of both content as well as collaborative filtering techniques.
+Content based and collaborative filtering are the traditional methods used in recommendation systems. 
 
 # Dataset
 
